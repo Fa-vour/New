@@ -1,0 +1,312 @@
+.container1{
+    background-color: #ffc221;
+    height: 50px;
+}
+i{
+    padding: 10px;
+}
+p{
+    padding: 10px;
+}
+img{
+    padding: 20px;
+}
+.arn{
+    padding-right: 30px;
+    text-decoration: none;
+    color: black;
+}
+.arn1{
+    color: #ffc221;
+    padding-right: 30px;
+}
+.container2{
+    height: 150px;
+}
+.navi{
+    padding-top: 40px;
+}
+.arn button{
+    background-color: #ffc221;
+    width: 100px;
+    height: 50px;
+    border: none;
+}
+.container3{
+    background-image: url(images/LongImage.jpg);
+    height: 400px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.oop{
+    color: #ffc221;
+}
+.op button{
+    background-color: #ffc221;
+    color: white;
+    border-radius: 20px 0 20px 20px;
+    height: 40px;
+    width: 250px;
+}
+.hi{
+    margin-top: 30px;
+}
+.container3 p{
+    font-size: 18px;
+}
+.container4{
+    height: 800px;
+    width: 100%;
+}
+.yellow{
+    background-color: #ffc221;
+    width: 20px;
+}
+.mid{
+    height: 400px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.pin{
+    text-align: center;
+    padding-top: 50px;
+}
+.re{
+    text-align: center;
+    border: 2px solid #ffc221;
+    width: 150px;
+    margin-left: 500px;
+    height: 50px;
+}
+.mg{
+    text-align: center;
+}
+.mov{
+    padding-top: 50px;
+}
+
+.container5{
+    height: 760px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.img1{
+    text-align: center;
+    background-color: white;
+    height: 250px;
+    width: 343px;
+    margin-top: 20px;
+    padding: 20px;
+    box-shadow: #00000040 0px 0px 10px 10px;
+}
+.mon{
+    text-align: center;
+}
+.container6{
+    height: 1000px;
+}
+.img2{
+    text-align: center;
+    background-color: #ddd;
+    height: 270px;
+    width: 220px;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 10px;
+    box-shadow: white 0px 0px 10px 10px;
+}
+.con{
+    background-color: #f5f5f5;
+    height: 800px;
+    margin-top: 50px;
+}
+.sun{
+    padding-top: 70px;
+}
+.img3{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    overflow: hidden;
+}
+.container7{
+    height: 600px;
+    background-image: url(images/Laptop\ Images.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.olu{
+    padding-top: 70px;
+}
+.wg{
+    font-size: 50px;
+    padding-top: 50px;
+}
+.pp{
+    font-size: 20px;
+    padding-top: 50px;
+}
+.container8{
+    background-color: #b2b2b2;
+    height: 300px;
+}
+.container9{
+    background-color: #ffc221;
+    height: 200px;
+    margin-top: -200px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.mm{
+    color: white;
+}
+.mn{
+    font-size: 23px;
+}
+.yel{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.qq button{
+    width: 300px;
+    height: 50px;
+    color: white;
+    background-color: black;
+    border-radius: 30px;
+    margin-top: 70px;
+    font-size: 20px;
+    border-style: none;
+}
+.container10{
+    background-image: url(images/Map.jpg);
+    background-repeat: no-repeat;
+    height: 350px;
+}
+.container11{
+    height: 400px;
+    background-color: black;
+    color: white;
+}
+.container11 a{
+    color: white;
+}
+.aa{
+    padding-top: 50px;
+}
+.ls{
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.yo{
+    background-color: #ffc221;
+    height: 70px;
+}
+.y{
+    text-align: center;
+    font-size: 20px;
+}
+.abt{
+    height: 200px;
+    background-color: #ffc221;
+}
+.abb{
+    text-align: center;
+    padding-top: 70px;
+}
+.about1{
+    height: 500px;
+}
+.img4{
+    height: 400px;
+}
+.log{
+    padding-top: 50px;
+}
+.let{
+    padding-top: 40px;
+}
+.let p{
+    font-size: 17px;
+}
+.let h2{
+    padding-left: 10px;
+}
+.about2{
+    height: 1550px;
+}
+.sm{
+    height: 1300px;
+    width: 1150px;
+    margin-top: 50px;
+}
+.mk{
+    height: 300px;
+    width: 300px;
+    margin-top: 5px;
+    margin-left: 20px;
+    padding: 20px;
+    padding-left: 10px;
+    padding-right: 30px;
+}
+.py{
+    font-size: 20px;
+    padding-top: 70px;
+}
+.ke{
+    color: red;
+}
+.about2 h4, .ke{
+    text-align: center;
+}
+.key{
+    padding-left: 40px;
+    font-size: 15px;
+    color: #b2b2b2;
+}
+.can{
+    background-color: #f5f5f5;
+    height: 1000px;
+    margin-top: 50px;
+}
+.ol{
+    height: 70px;
+}
+.form{
+    height: 500px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.form1{
+    padding-top: 50px;
+}
+#we{
+    width: 470px;
+    height: 50px;
+    border-color: #ffc221;
+}
+#txt{
+    border-color: #ffc221;
+    padding-top: 20px;
+}
+#in{
+    border-color: #ffc221;
+    width: 945px;
+    height: 50px;
+}
+input, textarea{
+    color: gray;
+    font-size: 15px;
+    padding-left: 50px;
+}
+.se{
+    text-align: center;
+}
+.se button{
+    height: 50px;
+    width: 200px;
+    color: white;
+    background-color: black;
+}
